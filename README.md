@@ -12,13 +12,15 @@
 <h3 align="center">
 <a href="https://dsc.bio/idea"> My Discord! </a>
 </h3>
-
+  
 <p align="center"><br>
-<a href="https://discord.com/users/935923986355863562">
-  <img src="https://lanyard-profile-readme.vercel.app/api/935923986355863562?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="center"
-</a>
+  <a href="https://discord.com/users/935923986355863562">
+    <img src="https://lostroes-profile-readme.vercel.app/api/935923986355863562?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="center" />
+  </a>
+</p>
   
 </p>
+<h2 align="center"></h2>
 <br>
 <p align=center>
   <div align=center>
