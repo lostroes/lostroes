@@ -1,16 +1,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Profile!;What's+up?&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Profile!&center=true&size=30">
   </a>
 </h1>
-
-<h3 align="center">
-🔭 Hello, my name is "Lostroes" <br>
-🌱 I’m currently working on a <important> BIG </important> project!<br>
-
-<h2 align="center"> Contact Me: <a href="mailto:poorlostroes@protonmail.com">poorlostroes@protonmail.com </a></h2>
-<h2 align="center"> bG9zdHJvZXM=#4852 </a>
-  
 </p>
 <h2 align="center"></h2>
 <br>
@@ -32,3 +24,4 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=lostroes&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+<h2 align="center"> Contact Me: <a href="mailto:poorlostroes@protonmail.com">poorlostroes@protonmail.com </a></h2>
