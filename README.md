@@ -9,15 +9,7 @@
 🌱 I’m currently working on a <important> BIG </important> project!<br>
 
 <h2 align="center"> Contact Me: <a href="mailto:poorlostroes@protonmail.com">poorlostroes@protonmail.com </a></h2>
-<h3 align="center">
-<a href="https://dsc.bio/idea"> My Discord! </a>
-</h3>
-  
-<p align="center"><br>
-  <a href="https://discord.com/users/935923986355863562">
-    <img src="https://lostroes-profile-readme.vercel.app/api/935923986355863562?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="center" />
-  </a>
-</p>
+<h2 align="center"> bG9zdHJvZXM=#4852 </a>
   
 </p>
 <h2 align="center"></h2>
